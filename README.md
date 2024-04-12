@@ -1,4 +1,4 @@
-# KILX
+# KLIX
 
 Welcome to KLIX, the ultimate clicker game where every tap counts! In KLIX, your goal is simple: click the box as many times as possible to rack up points and unlock powerful upgrades. The more clicks you unleash, the faster you progress through the game.
 
